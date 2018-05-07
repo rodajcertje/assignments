@@ -6,3 +6,5 @@ this repository contains my assignments
 [assignment 3](https://github.com/rodajcertje/assignments/blob/master/assignment3.ipynb)
 
 [assignment 4](https://github.com/rodajcertje/assignments/blob/master/assignment4.ipynb)
+
+[assignment 5](https://github.com/rodajcertje/assignments/blob/master/Assignment5.ipynb)
