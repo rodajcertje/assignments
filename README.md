@@ -11,5 +11,6 @@ this repository contains my assignments
 
 [assignment 6](https://github.com/rodajcertje/assignments/blob/master/assignment6.ipynb)
 
-[Exam June 7, 2018](https://github.com/rodajcertje/assignments/blob/master/Exam_student.ipynb)
+[Exam June 7, 2018]
 
+[Exam R](https://github.com/rodajcertje/assignments/blob/master/Exam_student.ipynb)
