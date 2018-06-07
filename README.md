@@ -10,3 +10,6 @@ this repository contains my assignments
 [assignment 5](https://github.com/rodajcertje/assignments/blob/master/Assignment5.ipynb)
 
 [assignment 6](https://github.com/rodajcertje/assignments/blob/master/assignment6.ipynb)
+
+[Exam June 7, 2018] (https://github.com/rodajcertje/assignments/blob/master/Exam_student.ipynb)
+
